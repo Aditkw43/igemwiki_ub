@@ -5,6 +5,10 @@ h1 {
     margin: 0%;
 }
 
-.nama{
+.nama {
     font: 100 sa;
+}
+
+.items {
+    color: aliceblue;
 }
